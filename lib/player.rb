@@ -58,8 +58,6 @@ class HumanPlayer < Player
             weapon_new = compute_damage
             puts "M@*#$... elle n'est pas mieux que ton arme actuelle..."
         end
-
-        
     end
     
     def search_health_pack
